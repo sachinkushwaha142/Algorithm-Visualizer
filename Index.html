@@ -16,7 +16,7 @@
 <body>
 <div class="bs-example" >
     <nav class="navbar navbar-expand-md navbar-dark HeaderColor fixed-top">
-        <a href="index.html" class="navbar-brand">Algorithms Visualizer</a>
+        <a href="Index.html" class="navbar-brand">Algorithms Visualizer</a>
         <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse">
             <span class="navbar-toggler-icon"></span>
         </button>
